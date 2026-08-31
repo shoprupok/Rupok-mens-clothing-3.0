@@ -1,0 +1,6 @@
+{
+  "name": "Rupok Men's Clothing",
+  "description": "Premium men's clothing and fashion store featuring shirts, polos, pants, accessories with fast Bangladesh delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
